@@ -116,5 +116,4 @@ for (var bio in biografias) {
   "</details> </div>";
 }
 }
-
 carregaDicionario()
